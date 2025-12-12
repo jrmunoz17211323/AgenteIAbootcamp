@@ -1,0 +1,6 @@
+[
+  {"sku": "CEM-SM-50", "name": "cemento", "price": 29800},
+  {"sku": "VAR-3/8", "name": "varilla", "price": 12000},
+  {"sku": "ARENA_M3", "name": "arena", "price": 70000},
+  {"sku": "PINT-1GAL", "name": "pintura", "price": 76000}
+]
